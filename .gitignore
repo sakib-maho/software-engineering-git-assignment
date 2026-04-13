@@ -33,3 +33,5 @@ venv/
 dist/
 build/
 *.egg-info/
+stats_cli
+stats_test
