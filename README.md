@@ -20,18 +20,22 @@ clean source organization, reusable functions, and basic test automation with `m
 - Unit-style test executable (`tests/test_stats.c`)
 - Build/test automation via `Makefile`
 
-## Usage
+## Quick Start
 
 ```bash
 make build
 ./stats_cli 12 4 99 23 18
 ```
 
-## Test
+## Tests
 
 ```bash
 make test
 ```
+
+## License
+
+MIT License. See `LICENSE`.
 
 ## Project Structure
 
@@ -44,7 +48,3 @@ software-engineering-git-assignment/
 ├── tests/test_stats.c
 └── Makefile
 ```
-
-## License
-
-MIT License. See `LICENSE`.
