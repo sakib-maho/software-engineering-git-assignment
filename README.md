@@ -1,5 +1,12 @@
 # Software Engineering Git Assignment (Upgraded)
 
+<!-- BrandCloud:readme-standard -->
+[![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Showcase](https://img.shields.io/badge/Portfolio-Showcase-blue.svg)](#)
+
+_Part of the `sakib-maho` project showcase series with consistent documentation and quality standards._
+
 This repository is transformed into a practical C statistics CLI that demonstrates
 clean source organization, reusable functions, and basic test automation with `make`.
 
